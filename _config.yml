@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Samira GHODRATNAMA"
   avatar           : "profile.png"
-  bio              : "Research scientist at Macquarie University, Visiting scholar at Arizona State University(ASU)"
+  bio              : "Research scientist at Macquarie University, Visiting scholar at Arizona State University (ASU)"
   location         : "Arizona, United Sates"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=g_TFvDYAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
