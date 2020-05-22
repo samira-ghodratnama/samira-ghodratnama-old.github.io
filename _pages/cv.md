@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Visiting Scholar, Arizona State University (ASU), 2020 - now
+* Ph.D Candidate in Computer Science, Macquarie University, 2018 - now
+* M.S. in Computer Science/Artifical Intelligence, Shiraz university, 2012-2015
+* B.S. in Computer Science, Shiraz university, 2008-2012
+* Diploma in Mathematics, National Organization for Development of Exceptional Talents (NODET), 2004 - 2008 
+
 
 Work experience
 ======
