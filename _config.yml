@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Samira Ghodratnama"
 title_separator          : "-"
-name                     : &name "Home"
+name                     : &name "Samira Ghodratnama"
 description              : &description "Data Scientist"
 url                      : https://samira-ghodratnama.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samira Ghodratnama"
+  name             : "Home"
   avatar           : "profile.png"
   bio              : "Data Scientist"
   location         : "Arizona, United Sates"
