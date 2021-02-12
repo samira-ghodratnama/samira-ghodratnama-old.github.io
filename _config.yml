@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Samira Ghodratnama"
 title_separator          : "-"
 name                     : &name "Samira Ghodratnama"
 description              : &description "Data Scientist"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samira GHODRATNAMA"
   avatar           : "profile.png"
-  bio              : "PhD candidate at Macquarie University, Research scientist at Arizona State University(ASU)"
+  bio              : "Data Scientist"
   location         : "Arizona, United Sates"
   employer         :
   pubmed           : 
