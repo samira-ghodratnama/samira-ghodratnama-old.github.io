@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Education"
+  - title: "Education & Experience"
     url: /education/
 
-  - title: "Experience"
-    url: /experience/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Publications"
     url: /publications/
+
+  - title: "Porjects"
+    url: /portfolio/    
+
+  - title: "Awards & Honors"
+    url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "contact"
     url: /markdown/
