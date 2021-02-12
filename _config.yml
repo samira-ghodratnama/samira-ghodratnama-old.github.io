@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samira Ghodratnama"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Samira Ghodratnama"
 description              : &description "Data Scientist"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Home"
+  name             : "Samira Ghodratnama"
   avatar           : "profile.png"
   bio              : "Data Scientist"
   location         : "Arizona, United Sates"
