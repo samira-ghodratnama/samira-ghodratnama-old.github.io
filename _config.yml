@@ -1,0 +1,50 @@
+# Site settings
+title: Samira Ghodratnama
+email: samira.ghodratnama@gmail.com
+description: >- 
+  A blog about AI, Technology, and more. Follow my journey as I explore these topics and share my experiences.
+baseurl: "" # Leave this blank unless your site is hosted in a subdirectory
+url: "http://yourwebsite.com" # Add your custom domain or leave as "" for localhost
+twitter_username: Samira_Gh90
+
+
+# Add this section to configure header navigation
+header_pages:
+  # - blog.markdown   # This adds the Blog tab to the header navigation
+  - about.markdown
+
+
+
+# Build settings
+theme: minima
+# plugins:
+#   - jekyll-feed
+
+# Show future-dated posts
+future: true
+
+# Exclude from processing
+# List of directories or files Jekyll will not process
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/
+  - vendor/
+
+# Permalink settings for better URLs (optional)
+permalink: /:categories/:year/:month/:day/:title.html
+
+# Markdown processing (optional)
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub-Flavored Markdown
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+footer:
+  description: "A blog about AI, Technology, and more. Follow my journey as I explore these topics and share my experiences."
+  email: "samira.ghodratnama@gmail.com"
+  social:
+    linkedin: "https://www.linkedin.com/in/samira-ghodratnama-phd-46698977/"
+    twitter: "https://twitter.com/Samira_Gh90"
